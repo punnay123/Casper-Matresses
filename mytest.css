@@ -1,0 +1,90 @@
+body{
+            color: #1e306e; 
+        }
+        h1{
+            text-align: center;
+        }
+        .navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+        .navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+        .navbar a.active {
+    background-color: #4CAF50;
+}
+        .navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 16.6%;
+    text-align: center;
+}
+    
+        a{
+            color: black;
+            text-decoration: none;
+        }
+        header{
+            background-image: url("casper image.jpg");
+            background-color: #30373b;
+            text-align: center;
+            padding: 5px;
+            height: 450px;
+        }
+        .logo{
+            padding: 5px;
+            width: 150px;
+            height: 40px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        p.top-liner{
+            font-size: 15px;
+        }
+    h4{
+    text-align: center;
+      }
+        header a.main-button{
+            margin-top: 80px;
+            padding: 15px;
+            border-radius: 0.25ren;
+            background-color: #1e306e;
+            color: white;
+            display: inline-block;   
+        }
+        header p.footer-text{
+            color: green;
+            padding-top: 150px;
+            display: block;
+        }
+        .textinomials{
+            text-align: center;
+        }
+            .reviews{
+                display: inline-block;
+                width: 350px;
+                height: 250px;
+        }
+        #vedio{
+            align-items: center;
+        }
+     form{
+    text-align: center;
+     }
+        footer{
+            background-color: #30373b;
+            color: white;
+            clear: both;
+            text-align: center;
+            padding: 15px;
+        }
+    
